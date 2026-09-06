@@ -1,4 +1,4 @@
-# PIC16F877A-LCD-Interfacing
+# Building a Digital Thermometer using LM35 with PIC16F877A 
 # PIC16F877A LCD Interfacing
 
 A basic embedded systems project demonstrating how to interface a 16x2 LCD with the PIC16F877A microcontroller.
